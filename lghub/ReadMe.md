@@ -1,4 +1,8 @@
-﻿G HUB recognizes your supported Logitech G gear, and gives you full access to their customization features. It automatically keeps firmware up to date.
+
+# ![lghub Logo](https://raw.githubusercontent.com/kuripa/ChocoPackages/main/icons/lghub.png "Logitech G Hub Logo") 
+### [lghub](https://chocolatey.org/packages/lghub)
+
+G HUB recognizes your supported Logitech G gear, and gives you full access to their customization features. It automatically keeps firmware up to date.
 
 ## CONFIGURE. SHARE. WIN.
 
