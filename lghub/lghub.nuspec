@@ -38,7 +38,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <authors>Logitech Inc.</authors>
     <!-- projectUrl is required for the community feed -->
     <projectUrl>https://www.logitechg.com/en-us/innovation/g-hub.html/</projectUrl>
-    <!--<iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/lghub.png</iconUrl>-->
+    <iconUrl>https://cdn.jsdelivr.net/gh/kuripa/ChocoPackages/icons/lghub.png</iconUrl>
     <copyright>© 2021 Logitech</copyright>
     <!-- If there is a license Url available, it is required for the community feed -->
     <!-- <licenseUrl></licenseUrl> -->
