@@ -10,7 +10,7 @@ $packageArgs = @{
 
   softwareName  = 'lghub*'
 
-  checksum      = '2cca98cd52e8abf6c6c38af260b7d14689c21db2477dad868034ff2bb1323f62'
+  checksum      = 'AEA0E3A0356276CF03B8080E903AA7FB1BAFA185E7D73F93F0A453C076E897C5'
   checksumType  = 'sha256'
 
   silentArgs    = "/qn /norestart /l*v `"$($env:TEMP)\$($packageName).$($env:chocolateyPackageVersion).MsiInstall.log`""
